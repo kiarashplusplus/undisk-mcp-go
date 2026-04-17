@@ -23,7 +23,7 @@ const (
 	// DefaultTimeout is the default HTTP client timeout.
 	DefaultTimeout = 60 * time.Second
 	// Version is the SDK version.
-	Version = "0.45.0"
+	Version = "0.46.0"
 )
 
 // Client is the Undisk MCP client. It is safe for concurrent use.

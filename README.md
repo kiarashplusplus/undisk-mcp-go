@@ -1,5 +1,9 @@
 # undisk-mcp Go SDK
 
+> [!TIP]
+> Home: https://mcp.undisk.app
+> Issues: https://github.com/kiarashplusplus/undisk-mcp-tracker/issues
+
 Go client for [Undisk MCP](https://mcp.undisk.app) — undo-first versioned file storage for AI agents.
 
 ## Install
